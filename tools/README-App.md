@@ -16,6 +16,12 @@ the code in xmlSrc/xmlToJson.groovy does the conversion. It's not quite there, a
 It may be better to use JSONBuilder syntax rather than mapping Object to JSON
 
 
+# New Site Site Steps
+* Migrate old index page
+* look into styling
+* Look into build
+* Copy site to domain in a sub dir
+
 
 ## Note:
 Ember new creates a git repo. Who knew?
