@@ -27,7 +27,7 @@ int i=0
 
 // only saves the last item!
 def jsonObject = [ data: books.book.collect {b->
-  [type: "book", id: i++,
+  [type: "book", id: b.isbn.text(),
   attributes:
   b.children().collectEntries{ it->
     if(it.children().size() == 0 ){

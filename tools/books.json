@@ -2,7 +2,7 @@
     "data": [
         {
             "type": "book",
-            "id": 0,
+            "id": "0547391404",
             "attributes": {
                 "title": "The Storytelling Animal",
                 "isbn": "0547391404",
@@ -19,7 +19,7 @@
         },
         {
             "type": "book",
-            "id": 1,
+            "id": "0984521402",
             "attributes": {
                 "title": "Kanban",
                 "isbn": "0984521402",
@@ -36,7 +36,7 @@
         },
         {
             "type": "book",
-            "id": 2,
+            "id": "1592406521",
             "attributes": {
                 "title": "Just My Type",
                 "isbn": "1592406521",
@@ -53,7 +53,7 @@
         },
         {
             "type": "book",
-            "id": 3,
+            "id": "0307887898",
             "attributes": {
                 "title": "The Lean Startup",
                 "isbn": "0307887898",
@@ -70,7 +70,7 @@
         },
         {
             "type": "book",
-            "id": 4,
+            "id": "0312427654",
             "attributes": {
                 "title": "Better: A Surgeon's Notes on Performance",
                 "isbn": "0312427654",
@@ -89,7 +89,7 @@
         },
         {
             "type": "book",
-            "id": 5,
+            "id": "0321601912",
             "attributes": {
                 "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
                 "isbn": "0321601912",
@@ -106,7 +106,7 @@
         },
         {
             "type": "book",
-            "id": 6,
+            "id": "0470684208",
             "attributes": {
                 "title": "Lean Architecture: for Agile Software Development ",
                 "isbn": "0470684208",
@@ -123,7 +123,7 @@
         },
         {
             "type": "book",
-            "id": 7,
+            "id": "0321685865",
             "attributes": {
                 "title": "Configuration Management Best Practices: Practical Methods that Work in the Real World",
                 "isbn": "0321685865",
@@ -140,7 +140,7 @@
         },
         {
             "type": "book",
-            "id": 8,
+            "id": "1594488843",
             "attributes": {
                 "title": "Drive: The Surprising Truth About What Motivates Us",
                 "isbn": "1594488843",
@@ -157,7 +157,7 @@
         },
         {
             "type": "book",
-            "id": 9,
+            "id": "0932633366",
             "attributes": {
                 "title": "\n      Measuring and Managing Performance in Organizations",
                 "isbn": "0932633366",
@@ -174,7 +174,7 @@
         },
         {
             "type": "book",
-            "id": 10,
+            "id": "1934356298",
             "attributes": {
                 "title": "Manage Your Project Portfolio: Increase Your Capacity and Finish More Projects",
                 "isbn": "1934356298",
@@ -191,7 +191,7 @@
         },
         {
             "type": "book",
-            "id": 11,
+            "id": "0805091742",
             "attributes": {
                 "title": "The Checklist Manifesto",
                 "isbn": "0805091742",
@@ -208,7 +208,7 @@
         },
         {
             "type": "book",
-            "id": 12,
+            "id": "0142000280",
             "attributes": {
                 "title": "Getting Things Done",
                 "isbn": "0142000280",
@@ -225,7 +225,7 @@
         },
         {
             "type": "book",
-            "id": 13,
+            "id": "0596809484",
             "attributes": {
                 "title": "97 Things Every Programmer Should Know",
                 "isbn": "0596809484",
@@ -242,7 +242,7 @@
         },
         {
             "type": "book",
-            "id": 14,
+            "id": "0470746637",
             "attributes": {
                 "title": "Adapting Configuration Management for Agile Teams: Balancing Sustainability and Speed ",
                 "isbn": "0470746637",
@@ -259,7 +259,7 @@
         },
         {
             "type": "book",
-            "id": 15,
+            "id": "0977616649",
             "attributes": {
                 "title": "Agile Retrospectives: Making Good Teams Great ",
                 "isbn": "0977616649",
@@ -276,7 +276,7 @@
         },
         {
             "type": "book",
-            "id": 16,
+            "id": "0964332574",
             "attributes": {
                 "title": "How To Talk To Anyone About Anything!",
                 "isbn": "0964332574",
@@ -293,7 +293,7 @@
         },
         {
             "type": "book",
-            "id": 17,
+            "id": "0932633676",
             "attributes": {
                 "title": "Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behavior",
                 "isbn": "0932633676",
@@ -310,7 +310,7 @@
         },
         {
             "type": "book",
-            "id": 18,
+            "id": "0976694026",
             "attributes": {
                 "title": "Behind Closed Doors: Secrets of Great Management",
                 "isbn": "0976694026",
@@ -327,7 +327,7 @@
         },
         {
             "type": "book",
-            "id": 19,
+            "id": "1934356158",
             "attributes": {
                 "title": "Pragmatic Version Control using Git",
                 "isbn": "1934356158",
@@ -344,7 +344,7 @@
         },
         {
             "type": "book",
-            "id": 20,
+            "id": "1934356050",
             "attributes": {
                 "title": "Pragmatic Thinking and Learning",
                 "isbn": "1934356050",
@@ -362,7 +362,7 @@
         },
         {
             "type": "book",
-            "id": 21,
+            "id": "0321356683",
             "attributes": {
                 "title": "Effective Java (2nd Edition)",
                 "isbn": "0321356683",
@@ -377,7 +377,7 @@
         },
         {
             "type": "book",
-            "id": 22,
+            "id": "093263365X",
             "attributes": {
                 "title": "Weinberg on Writing: The Fieldstone Method",
                 "isbn": "093263365X",
@@ -392,7 +392,7 @@
         },
         {
             "type": "book",
-            "id": 23,
+            "id": "097451408X",
             "attributes": {
                 "title": "Practices of an Agile Developer: Working in the Real World",
                 "isbn": "097451408X",
@@ -406,7 +406,7 @@
         },
         {
             "type": "book",
-            "id": 24,
+            "id": "0321413091",
             "attributes": {
                 "title": "Implementation Patterns",
                 "isbn": "0321413091",
@@ -423,7 +423,7 @@
         },
         {
             "type": "book",
-            "id": 25,
+            "id": "0132350882",
             "attributes": {
                 "title": "Clean Code",
                 "isbn": "0132350882",
@@ -440,7 +440,7 @@
         },
         {
             "type": "book",
-            "id": 26,
+            "id": "1934356018",
             "attributes": {
                 "title": "Prototype and script.aculo.us: You Never Knew JavaScript Could Do This!",
                 "isbn": "1934356018",
@@ -454,7 +454,7 @@
         },
         {
             "type": "book",
-            "id": 27,
+            "id": "0061438294",
             "attributes": {
                 "title": "What Every Body is Saying: An Ex-FBI Agent's Guide to Speed-Reading People",
                 "isbn": "0061438294",
@@ -471,7 +471,7 @@
         },
         {
             "type": "book",
-            "id": 28,
+            "id": "0978739248",
             "attributes": {
                 "title": "Manage It! Your Guide to Modern, Pragmatic Project Management",
                 "isbn": "0978739248",
@@ -488,7 +488,7 @@
         },
         {
             "type": "book",
-            "id": 29,
+            "id": "0672326140",
             "attributes": {
                 "title": "The Inmates are Running the Asylum",
                 "isbn": "0672326140",
@@ -505,7 +505,7 @@
         },
         {
             "type": "book",
-            "id": 30,
+            "id": "0321437381",
             "attributes": {
                 "title": "Implementing Lean Software Development",
                 "isbn": "0321437381",
@@ -522,7 +522,7 @@
         },
         {
             "type": "book",
-            "id": 31,
+            "id": "013590126X",
             "attributes": {
                 "title": "Wicked Problems, Righteous Solutions",
                 "isbn": "013590126X",
@@ -536,7 +536,7 @@
         },
         {
             "type": "book",
-            "id": 32,
+            "id": "0596101856",
             "attributes": {
                 "title": "Practical Perforce",
                 "isbn": "0596101856",
@@ -557,7 +557,7 @@
         },
         {
             "type": "book",
-            "id": 33,
+            "id": "0321336380",
             "attributes": {
                 "title": "Continuous Integration: Improving Software Quality and Reducing Risk",
                 "isbn": "0321336380",
@@ -578,7 +578,7 @@
         },
         {
             "type": "book",
-            "id": 34,
+            "id": "0978739213",
             "attributes": {
                 "title": "Release It! : Design and Deploy Production-Ready Software",
                 "isbn": "0978739213",
@@ -599,7 +599,7 @@
         },
         {
             "type": "book",
-            "id": 35,
+            "id": "0974514047",
             "attributes": {
                 "title": "Ship it! A Practical Guide to Successful Software Projects",
                 "isbn": "0974514047",
@@ -620,7 +620,7 @@
         },
         {
             "type": "book",
-            "id": 36,
+            "id": "0670033375",
             "attributes": {
                 "title": "Collapse: How Societies Choose to Fail or Succeed",
                 "isbn": "0670033375",
@@ -637,7 +637,7 @@
         },
         {
             "type": "book",
-            "id": 37,
+            "id": "0553585800",
             "attributes": {
                 "title": "Forty Signs of Rain",
                 "isbn": "0553585800",
@@ -654,7 +654,7 @@
         },
         {
             "type": "book",
-            "id": 38,
+            "id": "0553803123",
             "attributes": {
                 "title": "Fifty Degrees Below",
                 "isbn": "0553803123",
@@ -671,7 +671,7 @@
         },
         {
             "type": "book",
-            "id": 39,
+            "id": "0131479415",
             "attributes": {
                 "title": "Agile Estimating and Planning",
                 "isbn": "0131479415",
@@ -688,7 +688,7 @@
         },
         {
             "type": "book",
-            "id": 40,
+            "id": "0974514063",
             "attributes": {
                 "title": "Pragmatic Version Control Using Subversion",
                 "isbn": "0974514063",
@@ -705,7 +705,7 @@
         },
         {
             "type": "book",
-            "id": 41,
+            "id": "0321113551",
             "attributes": {
                 "title": "Testing Extreme Programming",
                 "isbn": "0321113551",
@@ -722,7 +722,7 @@
         },
         {
             "type": "book",
-            "id": 42,
+            "id": "0321278658",
             "attributes": {
                 "title": "Extreme Programming Explained : Embrace Change (2nd Edition)",
                 "isbn": "0321278658",
@@ -739,7 +739,7 @@
         },
         {
             "type": "book",
-            "id": 43,
+            "id": "0131177052",
             "attributes": {
                 "title": "Working Effectively with Legacy Code",
                 "isbn": "0131177052",
@@ -756,7 +756,7 @@
         },
         {
             "type": "book",
-            "id": 44,
+            "id": "0201741571",
             "attributes": {
                 "title": "Fearless Change: Patterns for Introducing New Ideas",
                 "isbn": "0201741571",
@@ -773,7 +773,7 @@
         },
         {
             "type": "book",
-            "id": 45,
+            "id": "0932633536",
             "attributes": {
                 "title": "Communication Gaps and How to Close Them",
                 "isbn": "0932633536",
@@ -790,7 +790,7 @@
         },
         {
             "type": "book",
-            "id": 46,
+            "id": "1932394230",
             "attributes": {
                 "title": "JUnit Recipes: Practical Methods for Programmer Testing",
                 "isbn": "1932394230",
@@ -807,7 +807,7 @@
         },
         {
             "type": "book",
-            "id": 47,
+            "id": "0743249275",
             "attributes": {
                 "title": "Lean Thinking : Banish Waste and Create Wealth in Your Corporation, Revised and Updated",
                 "isbn": "0743249275",
@@ -824,7 +824,7 @@
         },
         {
             "type": "book",
-            "id": 48,
+            "id": "0321125215",
             "attributes": {
                 "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
                 "isbn": "0321125215",
@@ -838,7 +838,7 @@
         },
         {
             "type": "book",
-            "id": 49,
+            "id": "0131467409",
             "attributes": {
                 "title": "Organizational Patterns of Agile Software Development",
                 "isbn": "0131467409",
@@ -855,7 +855,7 @@
         },
         {
             "type": "book",
-            "id": 50,
+            "id": "0201786060",
             "attributes": {
                 "title": "Requirements by Collaboration: Workshops for Defining Needs",
                 "isbn": "0201786060",
@@ -872,7 +872,7 @@
         },
         {
             "type": "book",
-            "id": 51,
+            "id": "073561993X",
             "attributes": {
                 "title": "Agile Project Management with Scrum",
                 "isbn": "073561993X",
@@ -889,7 +889,7 @@
         },
         {
             "type": "book",
-            "id": 52,
+            "id": "0974514039",
             "attributes": {
                 "title": "Pragmatic Project Automation: How to Build, Deploy, and Monitor Java Apps",
                 "isbn": "0974514039",
@@ -906,7 +906,7 @@
         },
         {
             "type": "book",
-            "id": 53,
+            "id": "0974514004",
             "attributes": {
                 "title": "Pragmatic Version Control Using CVS",
                 "isbn": "0974514004",
@@ -923,7 +923,7 @@
         },
         {
             "type": "book",
-            "id": 54,
+            "id": "0321193687",
             "attributes": {
                 "title": "UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third Edition",
                 "isbn": "0321193687",
@@ -937,7 +937,7 @@
         },
         {
             "type": "book",
-            "id": 55,
+            "id": "0321205685",
             "attributes": {
                 "title": "User Stories Applied : For Agile Software Development (Addison-Wesley Signature Series)",
                 "isbn": "0321205685",
@@ -951,7 +951,7 @@
         },
         {
             "type": "book",
-            "id": 56,
+            "id": "1930110529",
             "attributes": {
                 "title": "JSTL in Action",
                 "isbn": "1930110529",
@@ -965,7 +965,7 @@
         },
         {
             "type": "book",
-            "id": 57,
+            "id": "1930110502",
             "attributes": {
                 "title": "Struts in Action: Building Web Applications with the Leading Java Framework",
                 "isbn": "1930110502",
@@ -979,7 +979,7 @@
         },
         {
             "type": "book",
-            "id": 58,
+            "id": "0321126971",
             "attributes": {
                 "title": "Design Patterns in C#",
                 "isbn": "0321126971",
@@ -993,7 +993,7 @@
         },
         {
             "type": "book",
-            "id": 59,
+            "id": "0470862645",
             "attributes": {
                 "title": "Software Configuration Management Implementation Roadmap",
                 "isbn": "0470862645",
@@ -1010,7 +1010,7 @@
         },
         {
             "type": "book",
-            "id": 60,
+            "id": "0201745763",
             "attributes": {
                 "title": "Pair Programming Illuminated",
                 "isbn": "0201745763",
@@ -1024,7 +1024,7 @@
         },
         {
             "type": "book",
-            "id": 61,
+            "id": "1558605762",
             "attributes": {
                 "title": "Joe Celko's SQL for Smarties: Advanced SQL Programming",
                 "isbn": "1558605762",
@@ -1038,7 +1038,7 @@
         },
         {
             "type": "book",
-            "id": 62,
+            "id": "0932633447",
             "attributes": {
                 "title": "Project Retrospectives: A Handbook for Team Reviews",
                 "isbn": "0932633447",
@@ -1052,7 +1052,7 @@
         },
         {
             "type": "book",
-            "id": 63,
+            "id": "0201844575",
             "attributes": {
                 "title": "Questioning Extreme Programming",
                 "isbn": "0201844575",
@@ -1069,7 +1069,7 @@
         },
         {
             "type": "book",
-            "id": 64,
+            "id": "0201710919",
             "attributes": {
                 "title": "Planning Extreme Programming",
                 "isbn": "0201710919",
@@ -1083,7 +1083,7 @@
         },
         {
             "type": "book",
-            "id": 65,
+            "id": "0201708426",
             "attributes": {
                 "title": "Extreme Programming Installed",
                 "isbn": "0201708426",
@@ -1100,7 +1100,7 @@
         },
         {
             "type": "book",
-            "id": 66,
+            "id": "0130290327",
             "attributes": {
                 "title": "Software Architecture: Organizational Principles and Patterns",
                 "isbn": "0130290327",
@@ -1114,7 +1114,7 @@
         },
         {
             "type": "book",
-            "id": 67,
+            "id": "0136365647",
             "attributes": {
                 "title": "Software Release Methodology",
                 "isbn": "0136365647",
@@ -1128,7 +1128,7 @@
         },
         {
             "type": "book",
-            "id": 68,
+            "id": "0130086959",
             "attributes": {
                 "title": "Artful Making: What Managers Need to Know About How Artists Work",
                 "isbn": "0130086959",
@@ -1145,7 +1145,7 @@
         },
         {
             "type": "book",
-            "id": 69,
+            "id": "0321146530",
             "attributes": {
                 "title": "Test Driven Development: By Example",
                 "isbn": "0321146530",
@@ -1162,7 +1162,7 @@
         },
         {
             "type": "book",
-            "id": 70,
+            "id": "0321150783",
             "attributes": {
                 "title": "Lean Software Development: An Agile Toolkit for Software Development Managers",
                 "isbn": "0321150783",
@@ -1179,7 +1179,7 @@
         },
         {
             "type": "book",
-            "id": 71,
+            "id": "0738201456",
             "attributes": {
                 "title": "Mayhem: Violence As Public Entertainment",
                 "isbn": "0738201456",
@@ -1193,7 +1193,7 @@
         },
         {
             "type": "book",
-            "id": 72,
+            "id": "0060920432",
             "attributes": {
                 "title": "Flow",
                 "isbn": "0060920432",
@@ -1207,7 +1207,7 @@
         },
         {
             "type": "book",
-            "id": 73,
+            "id": "0130676349",
             "attributes": {
                 "title": "Agile Software Development with SCRUM",
                 "isbn": "0130676349",
@@ -1224,7 +1224,7 @@
         },
         {
             "type": "book",
-            "id": 74,
+            "id": "0201775948",
             "attributes": {
                 "title": "Beyond Software Architecture: Creating and Sustaining Winning Solutions",
                 "isbn": "0201775948",
@@ -1238,7 +1238,7 @@
         },
         {
             "type": "book",
-            "id": 75,
+            "id": "0932633609",
             "attributes": {
                 "title": "Waltzing With Bears: Managing Risk on Software Projects",
                 "isbn": "0932633609",
@@ -1255,7 +1255,7 @@
         },
         {
             "type": "book",
-            "id": 76,
+            "id": "0321117662",
             "attributes": {
                 "title": "Configuration Management Principles and Practice",
                 "isbn": "0321117662",
@@ -1272,7 +1272,7 @@
         },
         {
             "type": "book",
-            "id": 77,
+            "id": "0932633439",
             "attributes": {
                 "title": "Peopleware : Productive Projects and Teams, 2nd Ed.",
                 "isbn": "0932633439",
@@ -1289,7 +1289,7 @@
         },
         {
             "type": "book",
-            "id": 78,
+            "id": "020172183x",
             "attributes": {
                 "title": "Writers' Workshops & the Work of Making Things: Patterns, Poetry...",
                 "isbn": "020172183x",
@@ -1303,7 +1303,7 @@
         },
         {
             "type": "book",
-            "id": 79,
+            "id": "0201741172",
             "attributes": {
                 "title": "Software Configuration Management Patterns: Effective Teamwork, Practical Integration",
                 "isbn": "0201741172",
@@ -1321,7 +1321,7 @@
         },
         {
             "type": "book",
-            "id": 80,
+            "id": "0321127420",
             "attributes": {
                 "title": "Patterns of Enterprise Application Architecture",
                 "isbn": "0321127420",
@@ -1336,7 +1336,7 @@
         },
         {
             "type": "book",
-            "id": 81,
+            "id": "0201733862",
             "attributes": {
                 "title": "Software Craftsmanship: The New Imperative",
                 "isbn": "0201733862",
@@ -1353,7 +1353,7 @@
         },
         {
             "type": "book",
-            "id": 82,
+            "id": "0767907698",
             "attributes": {
                 "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency",
                 "isbn": "0767907698",
@@ -1367,7 +1367,7 @@
         },
         {
             "type": "book",
-            "id": 83,
+            "id": "0201760436",
             "attributes": {
                 "title": "Agile Software Development Ecosystems : Problems, Practices, and Principles",
                 "isbn": "0201760436",
@@ -1384,7 +1384,7 @@
         },
         {
             "type": "book",
-            "id": 84,
+            "id": "0201498340",
             "attributes": {
                 "title": "Surviving Object-Oriented Projects. A Manager's Guide",
                 "isbn": "0201498340",
@@ -1398,7 +1398,7 @@
         },
         {
             "type": "book",
-            "id": 85,
+            "id": "0932633390",
             "attributes": {
                 "title": "The Deadline. A Novel About Project Management",
                 "isbn": "0932633390",
@@ -1412,7 +1412,7 @@
         },
         {
             "type": "book",
-            "id": 86,
+            "id": "0932633420",
             "attributes": {
                 "title": "The Psychology of Computer Programming, Silver Anniversary Edition",
                 "isbn": "0932633420",
@@ -1429,7 +1429,7 @@
         },
         {
             "type": "book",
-            "id": 87,
+            "id": "0932633021",
             "attributes": {
                 "title": "Becoming a Technical Leader : An Organic Problem-Solving Approach",
                 "isbn": "0932633021",
@@ -1446,7 +1446,7 @@
         },
         {
             "type": "book",
-            "id": 88,
+            "id": "0932633013",
             "attributes": {
                 "title": "The Secrets of Consulting",
                 "isbn": "0932633013",
@@ -1463,7 +1463,7 @@
         },
         {
             "type": "book",
-            "id": 89,
+            "id": "0932633528",
             "attributes": {
                 "title": "More Secrets of Consulting: The Consultants Toolkit",
                 "isbn": "0932633528",
@@ -1480,7 +1480,7 @@
         },
         {
             "type": "book",
-            "id": 90,
+            "id": "0932633226",
             "attributes": {
                 "title": "Systems Thinking",
                 "isbn": "0932633226",
@@ -1494,7 +1494,7 @@
         },
         {
             "type": "book",
-            "id": 91,
+            "id": "0932633242",
             "attributes": {
                 "title": "First-Order Measurement",
                 "isbn": "0932633242",
@@ -1508,7 +1508,7 @@
         },
         {
             "type": "book",
-            "id": 92,
+            "id": "0932633285",
             "attributes": {
                 "title": "Congruent Action",
                 "isbn": "0932633285",
@@ -1522,7 +1522,7 @@
         },
         {
             "type": "book",
-            "id": 93,
+            "id": "0262112272",
             "attributes": {
                 "title": "Sources of Power. How People Make Decisions",
                 "isbn": "0262112272",
@@ -1536,7 +1536,7 @@
         },
         {
             "type": "book",
-            "id": 94,
+            "id": "0132366134",
             "attributes": {
                 "title": "Journey of the Software Professional: A Sociology of Software Development",
                 "isbn": "0132366134",
@@ -1550,7 +1550,7 @@
         },
         {
             "type": "book",
-            "id": 95,
+            "id": "0684818388",
             "attributes": {
                 "title": "How Good People Make Tough Choices: Resolving the Dilemmas of Ethical Living",
                 "isbn": "0684818388",
@@ -1567,7 +1567,7 @@
         },
         {
             "type": "book",
-            "id": 96,
+            "id": "014028852X",
             "attributes": {
                 "title": "Difficult Conversations : How to Discuss What Matters Most",
                 "isbn": "014028852X",
@@ -1584,7 +1584,7 @@
         },
         {
             "type": "book",
-            "id": 97,
+            "id": "0140157352",
             "attributes": {
                 "title": "Getting to Yes : Negotiating Agreement Without Giving In",
                 "isbn": "0140157352",
@@ -1603,7 +1603,7 @@
         },
         {
             "type": "book",
-            "id": 98,
+            "id": "0553371312",
             "attributes": {
                 "title": "Getting Past No : Negotiating Your Way from Confrontation to Cooperation",
                 "isbn": "0553371312",
@@ -1620,7 +1620,7 @@
         },
         {
             "type": "book",
-            "id": 99,
+            "id": "0932633161",
             "attributes": {
                 "title": "Are Your Lights On?",
                 "isbn": "0932633161",
@@ -1634,7 +1634,7 @@
         },
         {
             "type": "book",
-            "id": 100,
+            "id": "0201895420",
             "attributes": {
                 "title": "Analysis Patterns",
                 "isbn": "0201895420",
@@ -1648,7 +1648,7 @@
         },
         {
             "type": "book",
-            "id": 101,
+            "id": "0201633612",
             "attributes": {
                 "title": "Design Patterns",
                 "isbn": "0201633612",
@@ -1662,7 +1662,7 @@
         },
         {
             "type": "book",
-            "id": 102,
+            "id": "0201432935",
             "attributes": {
                 "title": "Pattern Hatching",
                 "isbn": "0201432935",
@@ -1676,7 +1676,7 @@
         },
         {
             "type": "book",
-            "id": 103,
+            "id": "0471958697",
             "attributes": {
                 "title": "A System of Patterns",
                 "isbn": "0471958697",
@@ -1690,7 +1690,7 @@
         },
         {
             "type": "book",
-            "id": 104,
+            "id": "0195019199",
             "attributes": {
                 "title": "A Pattern Language",
                 "isbn": "0195019199",
@@ -1704,7 +1704,7 @@
         },
         {
             "type": "book",
-            "id": 105,
+            "id": "0195024028",
             "attributes": {
                 "title": "The Timeless Way of Building",
                 "isbn": "0195024028",
@@ -1718,7 +1718,7 @@
         },
         {
             "type": "book",
-            "id": 106,
+            "id": "0195018249",
             "attributes": {
                 "title": "The Oregon Experiment",
                 "isbn": "0195018249",
@@ -1732,7 +1732,7 @@
         },
         {
             "type": "book",
-            "id": 107,
+            "id": "020161622X",
             "attributes": {
                 "title": "The Pragmatic Programmer: From Journeyman to Master",
                 "isbn": "020161622X",
@@ -1749,7 +1749,7 @@
         },
         {
             "type": "book",
-            "id": 108,
+            "id": "0201485672",
             "attributes": {
                 "title": "Refactoring: Improving the Design of Existing Code",
                 "isbn": "0201485672",
@@ -1763,7 +1763,7 @@
         },
         {
             "type": "book",
-            "id": 109,
+            "id": "0201924781",
             "attributes": {
                 "title": "Software for Use: A Practical Guide to the Models and Methods of Usage-Centered Design",
                 "isbn": "0201924781",
@@ -1777,7 +1777,7 @@
         },
         {
             "type": "book",
-            "id": 110,
+            "id": "1556159005",
             "attributes": {
                 "title": "Rapid Development, Taming Wild Software Schedules",
                 "isbn": "1556159005",
@@ -1794,7 +1794,7 @@
         },
         {
             "type": "book",
-            "id": 111,
+            "id": "0201178885",
             "attributes": {
                 "title": "Component Software: Beyond Object-Oriented Programming",
                 "isbn": "0201178885",
@@ -1808,7 +1808,7 @@
         },
         {
             "type": "book",
-            "id": 112,
+            "id": "1565925092",
             "attributes": {
                 "title": "HTTP: The Definitive Guide",
                 "isbn": "1565925092",
@@ -1822,7 +1822,7 @@
         },
         {
             "type": "book",
-            "id": 113,
+            "id": "156205810X",
             "attributes": {
                 "title": "Designing Web Usability",
                 "isbn": "156205810X",
@@ -1836,7 +1836,7 @@
         },
         {
             "type": "book",
-            "id": 114,
+            "id": "0201770598",
             "attributes": {
                 "title": "The XML Companion(3rd Edition)",
                 "isbn": "0201770598",
@@ -1850,7 +1850,7 @@
         },
         {
             "type": "book",
-            "id": 115,
+            "id": "0201770830",
             "attributes": {
                 "title": "The XSL Companion (2nd Edition)",
                 "isbn": "0201770830",
@@ -1864,7 +1864,7 @@
         },
         {
             "type": "book",
-            "id": 116,
+            "id": "0140139966",
             "attributes": {
                 "title": "How Buildings Learn : What Happens After They're Built",
                 "isbn": "0140139966",
@@ -1878,7 +1878,7 @@
         },
         {
             "type": "book",
-            "id": 117,
+            "id": "0465007805",
             "attributes": {
                 "title": "The Clock of the Long Now : Time and Responsibility",
                 "isbn": "0465007805",
@@ -1892,7 +1892,7 @@
         },
         {
             "type": "book",
-            "id": 118,
+            "id": "0393317552",
             "attributes": {
                 "title": "Guns, germs, and steel : the fates of human societies",
                 "isbn": "0393317552",
@@ -1906,7 +1906,7 @@
         },
         {
             "type": "book",
-            "id": 119,
+            "id": "0802713424",
             "attributes": {
                 "title": "The Victorian Internet",
                 "isbn": "0802713424",
@@ -1920,7 +1920,7 @@
         },
         {
             "type": "book",
-            "id": 120,
+            "id": "0393318486",
             "attributes": {
                 "title": "How the Mind Works",
                 "isbn": "0393318486",
@@ -1934,7 +1934,7 @@
         },
         {
             "type": "book",
-            "id": 121,
+            "id": "0262140659",
             "attributes": {
                 "title": "The Invisible Computer",
                 "isbn": "0262140659",
@@ -1948,7 +1948,7 @@
         },
         {
             "type": "book",
-            "id": 122,
+            "id": "020161586X",
             "attributes": {
                 "title": "The Practice of Programming",
                 "isbn": "020161586X",
@@ -1962,7 +1962,7 @@
         },
         {
             "type": "book",
-            "id": 123,
+            "id": "0201657880",
             "attributes": {
                 "title": "Programming Pearls",
                 "isbn": "0201657880",
@@ -1976,7 +1976,7 @@
         },
         {
             "type": "book",
-            "id": 124,
+            "id": "1556154844",
             "attributes": {
                 "title": "Code Complete",
                 "isbn": "1556154844",
@@ -1990,7 +1990,7 @@
         },
         {
             "type": "book",
-            "id": 125,
+            "id": "0201824671",
             "attributes": {
                 "title": "Multi-Paradigm Design for C++",
                 "isbn": "0201824671",
@@ -2004,7 +2004,7 @@
         },
         {
             "type": "book",
-            "id": 126,
+            "id": "0201824701",
             "attributes": {
                 "title": "C++ Primer",
                 "isbn": "0201824701",
@@ -2018,7 +2018,7 @@
         },
         {
             "type": "book",
-            "id": 127,
+            "id": "0201924889",
             "attributes": {
                 "title": "Effective C++ Second Edition",
                 "isbn": "0201924889",
@@ -2032,7 +2032,7 @@
         },
         {
             "type": "book",
-            "id": 128,
+            "id": "0201543303",
             "attributes": {
                 "title": "The Design and Evolution of C++",
                 "isbn": "0201543303",
@@ -2046,7 +2046,7 @@
         },
         {
             "type": "book",
-            "id": 129,
+            "id": "0201607344",
             "attributes": {
                 "title": "Pattern Languages of Programs Design 1",
                 "isbn": "0201607344",
@@ -2060,7 +2060,7 @@
         },
         {
             "type": "book",
-            "id": 130,
+            "id": "0201895277",
             "attributes": {
                 "title": "Pattern Languages of Programs Design 2",
                 "isbn": "0201895277",
@@ -2074,7 +2074,7 @@
         },
         {
             "type": "book",
-            "id": 131,
+            "id": "0201310112",
             "attributes": {
                 "title": "Pattern Languages of Programs Design 3",
                 "isbn": "0201310112",
@@ -2088,7 +2088,7 @@
         },
         {
             "type": "book",
-            "id": 132,
+            "id": "0201398265",
             "attributes": {
                 "title": "Pattern Languages of Programs Design 3",
                 "isbn": "0201398265",
@@ -2102,7 +2102,7 @@
         },
         {
             "type": "book",
-            "id": 133,
+            "id": "068486875X",
             "attributes": {
                 "title": "Emergence: The Connected Lives of Ants, Brains, Cities, and Software",
                 "isbn": "068486875X",
@@ -2116,7 +2116,7 @@
         },
         {
             "type": "book",
-            "id": 134,
+            "id": "046502596x",
             "attributes": {
                 "title": "The Pattern on the Stone : The Simple Ideas That Make Computers Work (Science Masters Series)",
                 "isbn": "046502596x",
