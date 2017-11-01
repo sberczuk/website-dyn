@@ -33,8 +33,8 @@ def jsonObject = [ data: books.book.collect {b->
     if(it.children().size() == 0 ){
     ["${it.name()}": it.text()] // add closure to handle nested
   } else{
-    [(it.name()) : it.children().collectEntries{ a->
-       [(a.name()): a.text()]
+    [(it.name()) : it.children().collect{ a->
+      a.text()
       }]
   }
   }
